@@ -1,1 +1,9 @@
 
+```
+- run experiments for the CIFAR-10 dataset:
+```
+python main.py --params utils/X.yaml
+```
+`X` = `cifar_params`
+```
+
